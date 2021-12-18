@@ -1,0 +1,51 @@
+body{
+	min-height:100%;
+	background-image:url("background-image.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-blend-mode: multiply;
+ }  
+ 
+ 
+
+.bus{
+	width: 200px;
+	height: 200px;
+}
+dotclass(.img){
+	
+}
+
+body{
+	background-color: yellow;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.img{
+	width: 20000px;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+	  background-color: lightblue;
+}
+
+
+@media screen and (max-width: 600px) {
+}
+.bus{
+
+	width: 400px;
+	height:400px;
+	}
+.main{
+	background-color:transparent;
+  }
+}
+  
+.bslogo{
+	width:200px;
+	height:200px;
+	float:right;
+)
